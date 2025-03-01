@@ -42,7 +42,7 @@ This is a personal portfolio website showcasing my skills, projects, and experie
 
 ## Contact
 
-- **Portfolio:** [Visit Here](https://your-portfolio-link.com)
+- **Portfolio:** [Visit Here](https://mahima-portfolio-zmff.vercel.app/)
 - **GitHub:** [https://github.com/mahiawasthi23](https://github.com/mahiawasthi23)
 - **LinkedIn:** [https://www.linkedin.com/in/mahima9936/](https://www.linkedin.com/in/mahima9936/)
 - **Email:** [mahima23@navgurukul.org](mailto\:mahima23@navgurukul.org)
