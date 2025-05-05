@@ -1,6 +1,6 @@
 
 var   typed = new Typed(".loop",{
-    strings : [ "Frontend Developer" , "Web Developer" , "Frontend Developer" ],
+    strings : [ "Frontend Developer" , "Creative designer" , "Frontend Developer" ],
     typeSpeed : 150,
     backSpeed : 150,
     looped : true
